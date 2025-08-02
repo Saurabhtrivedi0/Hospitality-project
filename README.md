@@ -20,3 +20,5 @@ AtliQ Grands is a five-star hotel chain operating across major Indian cities. Fa
 	• Dashboard storytelling focused on business decisions
 ### Outcome
 The dashboard delivered a clear, decision-focused view of hotel performance across cities, platforms, and timelines—helping leadership identify what’s working, what’s not, and where to act.
+
+<img width="1375" height="774" alt="Screenshot 2025-08-02 142028" src="https://github.com/user-attachments/assets/fc60f379-13f3-40c0-9452-4867061f213b" />
