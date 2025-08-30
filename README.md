@@ -11,7 +11,8 @@ AtliQ Grands is a five-star hotel chain operating across major Indian cities. Fa
 ### Key Findings
 	• Mumbai leads in revenue but lags behind Delhi in occupancy
 	• High cancellation rate (25%) consistently across cities
-    • ADR remains static despite fluctuations in occupancy and RevPAR indicating a fixed pricing \nstrategy that may be leaving revenue on the table
+    • ADR remains static despite fluctuations in occupancy and RevPAR indicating a fixed pricing 
+	  strategy that may be leaving revenue on the table
 	• Weekends outperform weekdays in RevPAR and occupancy pricing strategy could be adjusted
 ### Tools & Skills Used
 	• Power BI (Modeling, DAX, Visuals)
